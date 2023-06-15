@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer_node.js-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolaos Vasileiadis",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.5.0"
+  }
+}
